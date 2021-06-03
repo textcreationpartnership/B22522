@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands reioycing at the prelats downfall, or, Gods goodnesse and mercy to England in delivering them from the cruell tyranny of blood-thirsty prelats</title>
+            <author>Ill willer to the Romish brood.</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22522</idno><idno type="EEBO-CITATION">12566190</idno>
+  <idno type="VID">199242</idno>
+  <idno type="EEBO-PROQUEST">2264215348</idno>
+  
+            <idno type="STC">Wing E3023</idno>
+            <idno type="OCLC">12566190</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 315:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands reioycing at the prelats downfall, or, Gods goodnesse and mercy to England in delivering them from the cruell tyranny of blood-thirsty prelats</title>
+                  <author>Ill willer to the Romish brood.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the yeare of the down-fall of the prelats,</publisher>
+                  <pubPlace>England :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Written by an ill willer to the Romish brood.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature.</term>
+               <term type="corporate_name">Catholic Church --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199242:1"/>
+            <p> ENGLANDS REIOYCING AT THE PRELATS downfall.</p>
+            <p>OR, GODS GOODNESSE and mercy to <hi>England</hi> in de<g ref="char:EOLhyphen"/>livering them from the cruell tyran<g ref="char:EOLhyphen"/>ny of blood-thirsty <hi>Prelats.</hi>
+            </p>
+            <q>
+               <bibl>PSAL. 34. 19.</bibl>
+               <p>
+                  <hi>Many are the troubles of the Righteous, but the Lord delivereth them out of all.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>PSAL. 90. 15.</bibl>
+               <p>
+                  <hi>Comfort us according to the dayes that thou hast afflicted us, and according to the years we have seen evill.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>ENGLAND,</hi> Printed in the yeare of the down-fall of the <hi>Prelats.</hi> 1641.</p>
+            <pb facs="tcp:199242:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:199242:2"/>
+            <head>THE PREFACE.</head>
+            <p>CHristian Reader, thou hast here presented unto thee in this small Treatise, the cruell Tyranny of the wicked Bishops, and <hi>Gods</hi> goodnesse and great mercy in easing the Land of them, in turning their plots to their own Destruction, and in making them a derision to all the world: Therfore let us all blesse and praise <hi>God</hi> for all his mercies to us, and long and desire the downfall of <hi>Rome,</hi> and al his brood, with all the enemies of the Church, that so our Church may be a glorious Church, even to the coming of our <hi>Lord Iesus Christ,</hi> even so be it, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>
+                  <hi>Your Friend in</hi> Christ.</signed>
+            </closer>
+            <pb facs="tcp:199242:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:199242:3"/>
+            <head>ENGLANDS REIOYCING at the <hi>Prelats</hi> downfall, Or, <hi>Gods</hi> goodnesse and mercy to ENGLAND in delivering them from the cruell Tyranny of blood-thirsty <hi>Prelats.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. 123. 3.</bibl> Have mercy upon us ô Lord, have mercy upon us, for we have suffered too much contempt.</q>
+               <q>
+                  <bibl>PSAL. 120. 6.</bibl> My soule hath too long dwelt with him that hateth peace.</q>
+               <q>
+                  <bibl>PSAL. 119. 126.</bibl> It is time for thee to worke ô Lord, for they have destroyed thy Law.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here ever hath bin, and is now, and still there ever will be (so long as the <note place="margin">Gods people will have ene<g ref="char:EOLhyphen"/>mies, as long as they continue here.</note> world stands) enemies against the Church and People of <hi>God,</hi> bloody enemies, cruell Tyrants: but still the <hi>Lord</hi> ever hath bin, and is now, and will be the
+<pb facs="tcp:199242:4"/> deliverer of his People; the <hi>Lord</hi> doth confound their enemies and trap them in their own snares; they lay baits privily to intrap the Righteous, <note place="margin">The wicked lay snares for the Righteous, and are snared themselves.</note> and are snared in their own snares; the <hi>Lord</hi> who sits in heaven, and eyes and beholds the wayes and plots of the wicked: he wisely orders and con<g ref="char:EOLhyphen"/>trives their own plots to their own Destruction, as witnesse that hellish Powder Treason of blood-thirsty <note place="margin">Papists are cru<g ref="char:EOLhyphen"/>ell Tyrants to Gods people and Church.</note>
+               <hi>Prelats,</hi> who sought to have blowed up the whole Assembly of <hi>Parliament;</hi> and when they thought themselves most sure, then <hi>God</hi> discove<g ref="char:EOLhyphen"/>red it, and turned it to their own Ruine.</p>
+            <p>And also in Queen <hi>Maryes</hi> dayes, how cruell <note place="margin">In Q. <hi>Maryes</hi> time were bloo<g ref="char:EOLhyphen"/>dy dayes with the Papists.</note> were they to all Christians, insomuch that who<g ref="char:EOLhyphen"/>soever would not turn to them to worship <hi>Baal,</hi> there was no mercy with them, but to fire and <note place="margin">No mercy to be had of Papists.</note> faggot they must goe, bloody-minded men they were. But yet the <hi>Lord</hi> in the end did overthrow <note place="margin">God will over<g ref="char:EOLhyphen"/>throw their plots.</note> them and consumed them; they must not alwayes Tyrannize over <hi>Gods</hi> people: For though <hi>God</hi> let them alone for a time, yet in the end he will laugh at their destruction: <hi>The rod of the wicked shall not alway lye on the backe of the righteous, God</hi> will ease them, and deliver them.</p>
+            <p>And now also <hi>God</hi> is very good to his people, farre beyond all hopes or expectation: for our <note place="margin">God will not forsake his people.</note> Lordly <hi>Prelats</hi> have so Lorded it over all <hi>Gods</hi> people, as scarce any have bin free from trouble, but that the Bishops, our Lordly <hi>Prelats</hi> have per<g ref="char:EOLhyphen"/>secuted them by Pursevanting knaves, some way <note place="margin">Pursevants are knaves by <hi>Bon<g ref="char:EOLhyphen"/>nirags</hi> confessi<g ref="char:EOLhyphen"/>on.</note> or other: and their impudencie was grown to such a height, that Ministers dare hardly Preach; and if they did, they were tyed to a just houre:
+<pb facs="tcp:199242:4"/> and Pursevants were redy to insnare them if they <note place="margin">That was be<g ref="char:EOLhyphen"/>cause they would have brought in Po<g ref="char:EOLhyphen"/>pery under the name of Reli<g ref="char:EOLhyphen"/>gion.</note> spoke any thing against Popery: Nor people could not assemble themselves together in any duty in private, much lesse publick, but they were had before his Grace, and were mockt and scoft at by the name of <hi>Puritans,</hi> and many other ab<g ref="char:EOLhyphen"/>surd names, so that they had the world at their beck and command, that all the world groaned <note place="margin">Bishops were never more ha<g ref="char:EOLhyphen"/>ted then now.</note> under them, they were (I meane our Lordly <hi>Pre<g ref="char:EOLhyphen"/>lats)</hi> a burden both to Church and State.</p>
+            <p>How had they corrupted <hi>Gods</hi> worship, abused his Ordinances, despised his Ministers, rejected <note place="margin">The <hi>Lord</hi> hath bin very much wronged.</note> his Word, dishonoured his Name, prophaned his Sabbaths, persecuted his people, and robbing <hi>God</hi> of his Honour. O Brethren, these are grievous things: and when a Land is guilty of these things, <note place="margin">and justly might the <hi>Lord</hi> have done it.</note> the <hi>Lord</hi> must needs avenge himselfe, as faith the <hi>Lord, Shall not I visit for these things?</hi>
+            </p>
+            <p>Consider in the first place, how they have cor<g ref="char:EOLhyphen"/>rupted <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>Gods worship,</hi> in turning their Table <hi>Altar<g ref="char:EOLhyphen"/>wise,</hi> and rayling of it, and making the people come up to it, and kneel round about it; in read<g ref="char:EOLhyphen"/>ing their Second Service there; and in consecra<g ref="char:EOLhyphen"/>ting <note place="margin">They all are for the outside <hi>wor<g ref="char:EOLhyphen"/>ship,</hi> and never look after the heart within.</note> the Table or Chancell, as though the Table or Chancell had bin more holyer then any part of the Church else; and also in wearing the white Surplice, Lawn Sleeves, Tippet, foure corner Cap, &amp;c. as though <hi>God</hi> required these outside Ce<g ref="char:EOLhyphen"/>remonies, when as indeed this is a corrupting of <hi>Gods worship,</hi> and so bowing at the Name of <hi>Jesus,</hi> as if that were above <hi>Jehovah</hi>
+            </p>
+            <p>Secondly, consider how they have abused thine <milestone type="tcpmilestone" unit="unspecified" n="2"/> ordinances, in setting up of Idolatry and Super<g ref="char:EOLhyphen"/>stition,
+<pb facs="tcp:199242:5"/> and labouring to pull down thine Ordi<g ref="char:EOLhyphen"/>nances by their good will: they would not have <note place="margin">All things were hatefull to him, but Idolatry.</note> us have a Lecture once a week, nay not on the <hi>Lords day:</hi> for they set out a Book for Liberty on the <hi>Sabbath,</hi> in spending the afternoons in Sports and Past-times, and so putting down all Sermons in the afternoones, as one of the <hi>Prelats</hi> most no<g ref="char:EOLhyphen"/>toriously <note place="margin">But this was the way to their own destructi<g ref="char:EOLhyphen"/>on, as now you see.</note> boasted and said, <hi>I thank God I have but one Lecture in all my Diocesse:</hi> ô most wicked Blas<g ref="char:EOLhyphen"/>phemour, to thank <hi>God</hi> that he hath done wick<g ref="char:EOLhyphen"/>edly: ô this is a high contempt of <hi>Gods</hi> Ordinan<g ref="char:EOLhyphen"/>ces, and abusing them, when men strive with all their might and maine to subvert the Ordinan<g ref="char:EOLhyphen"/>ces of <hi>God,</hi> as our proud <hi>Prelats</hi> did.</p>
+            <p>Thirdly, consider how they have contemned and despised the Ministers of <hi>God,</hi> as that they would not suffer them to teach: for if they did, they must cringe, and bow, and be very Ceremo<g ref="char:EOLhyphen"/>niall; or else if they will not, they are clapt up in Prison. And of late that sinfull Synod made an <hi>Oath,</hi> that all Ministers must take, and so they thought to insnare all good Ministers, for none would take it that feared <hi>God,</hi> and then by thi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Oath,</hi> they would have silenc'd all good men, suchs a plot it was, that one would have thought all the Devils in hell could not have thought: but now it is cleane contrary to their expectation.</p>
+            <p>Fourthly, consider how they rejected his Word in adding and diminishing what they pleased, and in being carelesse and negligent of his Word in rejecting <hi>Gods</hi> Word and Religion, &amp; setting up of a Religion of their own, and in making a set forme of Prayer, as they pleased, for Ministers to
+<pb facs="tcp:199242:5"/> say before their Sermons, as if so be none were so holy as they (as they thought themselvs) when in<g ref="char:EOLhyphen"/>deed none were so wicked as they: ô this rejecting of <hi>Gods</hi> Word would have caused him to have ta<g ref="char:EOLhyphen"/>ken it away: For where a People once rejects his Word, then he departs from them.</p>
+            <p>Fiftly consider, they have dishonoured his Name, by swearing by his Name, as <hi>Lord,</hi> or <hi>God,</hi> as many of our <hi>Prelats</hi> doe, who (at least should know better) doe, yea many of our Ceremoniall Ministers, that will come out of a Tavern or Ale<g ref="char:EOLhyphen"/>house, and goe up in the Pulpit to preach, and call upon the name of <hi>God,</hi> whenas this is a dishonour<g ref="char:EOLhyphen"/>ing <hi>Gods</hi> name, and a mocking him to his face, when they say and promise one thing, and doe clean contrary. <hi>God</hi> commands us to <hi>honour him,</hi> and we dishonour him, to honour the creatures, wicked men.</p>
+            <p>Sixtly, Consider how they have prophaned his Sabbaths, in giving men liberty on the Sabbath: wheras <hi>God</hi> hath set it apart to be kept holy to himselfe, they gave liberty to men to prophane the Sabbath, to make it a day of mirth and Pa<g ref="char:EOLhyphen"/>stimes: ô this is most abominable, they contradict <hi>God,</hi> and break the Fourth Commandement, wherein <hi>God</hi> has commanded men to keep the Sabbath day holy: and how is it kept when they keep it unholy, and prophane it?</p>
+            <p>Seventhly, Consider how most barbarously they persecuted <hi>Gods</hi> people, in dismembring and disfiguring, and whipping, and Pilloring, and Fet<g ref="char:EOLhyphen"/>tering, and Imprisoning, and Banishing, and Si<g ref="char:EOLhyphen"/>lencing, &amp;c.</p>
+            <pb facs="tcp:199242:6"/>
+            <p> As first, in cutting off those Three Worthy <note place="margin">Three Worthy Champions of <hi>Christ</hi> suffered all patiently.</note> mens Eares, Mr. <hi>Burton,</hi> Dr. <hi>Bastwicke,</hi> and Mr. <hi>Pryn:</hi> and then Fining them, and Banishing them to Perpetuall Imprisonment, which was against both the Laws of <hi>God</hi> and men: for they were not found guilty of any thing: ô it was most cruell dealing, not like Christians, but as dogs. And also good Dr. <hi>Layton,</hi> that hath bin both branded and whipt, and his nose slit, and Imprisoned. And <note place="margin">This was the Christian mans tryall.</note> Mr. <hi>John Lilburne,</hi> that hath bin whipt and gag<g ref="char:EOLhyphen"/>ged, and Fettered, and Pillorified, and Impriso<g ref="char:EOLhyphen"/>ned. And so many other of <hi>Gods</hi> Children did the Lordly Prelats persecute, and Tyrannize over. How did they Lord it over all men in their bit<g ref="char:EOLhyphen"/>ter High Commission, worse then the Spanish <note place="margin">All will turn to their owne ruine.</note> Inquisition: but Pride now hath had a fall, <hi>they now are fallen into the Pit that they digged for others.</hi>
+            </p>
+            <p>Seventhly, they robbed <hi>God</hi> of his glory, and <note place="margin">Robbing <hi>God</hi> of his glory, giv<g ref="char:EOLhyphen"/>ing all to the creatures that <hi>God</hi> should have.</note> honour, they forsook the living <hi>God,</hi> and set up Images, and Idols, and they worshiped them: this was in some places, and they would have had it in all places, had not they bin crost of their designes; for how many scores of Ministers had they Si<g ref="char:EOLhyphen"/>lenced, and set up dumb dogs in their Rome, that so they might (when all good Ministers were put out) rule as Lords and Kings; and every one should have honoured them: for in their Courts they sate like <hi>Gods,</hi> and not like Men, making every one subject to them; and thus they robbed <hi>God</hi> of his honour: ô these were heavy things, and cer<g ref="char:EOLhyphen"/>tainly <hi>God</hi> will be avenged of these <hi>Prelats:</hi> and indeed now he hath begun, in that he hath turned all to their own ruine and destruction. <hi>God</hi> in
+<pb facs="tcp:199242:6"/> pitty and mercy towards his people, called a Par<g ref="char:EOLhyphen"/>liament, which <hi>England</hi> longed for, contrary to our wicked Bishops mind: for they little thought of a Parliament, for if they had, they would ne<g ref="char:EOLhyphen"/>ver have Tyrannized so as they did; they thought they might doe what they would, for no body durst say, why doe you so? The truth was, they neither feared <hi>God</hi> nor man, for if they had, they would have thought then that <hi>God</hi> would have called them to an account for all, and then they would not have done so: but <hi>they were departed from the living Lord, and did according to their own hearts lust,</hi> as in <hi>Ie▪</hi> 9. 13. 14. <hi>They have forsaken my law which I set before them, and have not obeyed my voyce, neither walke thereafter. But they have walked after the stubbornes of their own hearts.</hi> Yea they have walk<g ref="char:EOLhyphen"/>ed very stubbornly before <hi>God,</hi> doing all things contrary to <hi>Gods</hi> will, as in <hi>Le.</hi> 26. 1. 40. <hi>They have walked contrary unto me:</hi> and therfore saith <hi>God</hi> in the next verse 41. <hi>Because they have walked con<g ref="char:EOLhyphen"/>trary unto me, therefore will I walke contrary unto them. God</hi> will serve them in their own kind: for <hi>they that forsake him, he will forsake them, and</hi>
+               <note place="margin">Miserable are al they whom the <hi>Lord</hi> departs from.</note>
+               <hi>leave them to their own destruction:</hi> as you see he hath done these Lordly Prelats: they forsook <hi>God,</hi> and <hi>God</hi> forsook them, and hath brought <note place="margin">They are de<g ref="char:EOLhyphen"/>scended from their Palace to their Prison.</note> them to their own destruction: that wheras be<g ref="char:EOLhyphen"/>fore they sate as Lords and Kings in their Pal<g ref="char:EOLhyphen"/>lace, now they sit as Prisoners in their Prison, yet they never thought of this, nor if any had told them of it, would not have beleeved it: for they thought it was impossible, they had so seated themselves. And I dare be bold to say, that had not the <hi>Lord</hi> crossed their wicked designes by
+<pb facs="tcp:199242:7"/> this time <hi>Canterbury</hi> would have bin entring into his Popeship: for as a worthy Knight sayes, <hi>He</hi>
+               <note place="margin">But the little great man was deceived.</note>
+               <hi>pleads for a Popeship under the name of a Patriarch,</hi> and it was too true, as was apparent by his acti<g ref="char:EOLhyphen"/>ons, and by what he intended to doe; as to have silenced all Godly Ministers with that damnable <hi>Oath</hi> hatcht in Hell; and then we should have had fire and fagot. But ô blessed, and for ever blessed and praised be the <hi>Lord</hi> our <hi>God,</hi> that hath eased the Land of this great burden: for they are of late hated of all men, both Scotch men, and Eng<g ref="char:EOLhyphen"/>lish men: for they by sending over the Scotch Service Book, and imposing it on them, was the cause of all this: they could not be content to rule and Lord it here, but they must there also too, &amp; so made a rod for their own back: for they by that meanes brought the Scots hither, and so they bred hatred between the two united King<g ref="char:EOLhyphen"/>domes, and would have made them pierc'd their swords in one anothers side. But the wise <hi>God</hi> hath now brought them into shame and confusion, that now our Lordly Prelats hang down their heads, for this happy Parliament hath quell'd all the <hi>Canterburian</hi> Faction, that now they have nothing to say: and now I beleeve they wish they had ne<g ref="char:EOLhyphen"/>ver bin Bishops at all, but some handicraft Trade, which indeed there are too too many more, are more fitter for the Plough then the Pulpit, Idoll Ministers, that are negligent in <hi>Gods</hi> worship, and in preaching his Word; when as <hi>God</hi> saith, <hi>Cursed are they that doe the worke of the Lord negligently,</hi> Jer. 48. 10. And how negligent are our Lordly Bishops, that do not preach once in a whole year,
+<pb facs="tcp:199242:7"/> when as Bishops should be preaching Bishops, and not Lording Bishops: for in <hi>Zacha.</hi> 11. 17. <hi>Woe unto ye Idol shepheards that leave your flock, the sword shalbe upon you,</hi> &amp;c. And yet how many Idoll shep<g ref="char:EOLhyphen"/>heards have we now that famish their flock, and are idle and lazie? and how many Idoll worship<g ref="char:EOLhyphen"/>ers such as worship Idols, when <hi>God</hi> forbids it, as in <hi>Levit.</hi> 19. 4. <hi>Ye shall not turne unto Idolls, nor make your molten Gods, for I am the Lord your God: yet they made them graven Images, and worshipped them, for all that the Lord forbids them, and they walked every way stubbornly against God:</hi> and therfore sayes <hi>God</hi> in <hi>Pro.</hi> 1. 24, 25, 26. <hi>Because I have called, and ye refused, and I stretched forth my hand, and none would regard, but have despised my counsell, I will laugh at your destruction, and mocke when your feare cometh.</hi> And also in <hi>Jer.</hi> 9. 13. <hi>Because they have forsaken my Law which I set before them, and have not obeyed my voyce, I will send a sword after them till I have consumed them:</hi> So that <hi>God</hi> leaves those that leave him, yea those that walke not in the way of <hi>God</hi> shall not prosper, as you see these wicked Prelats that did all according to their own wills, and so run headlong to destruction, for those things which <note place="margin">Nothing that they take in hand against the godly shall prosper. <hi>Zach.</hi> 9. 9.</note> they sought the ruine of others with, have turned to their own ruine; and <hi>England</hi> hath great cause to <hi>rejoyce at their downfalls,</hi> for they were ene<g ref="char:EOLhyphen"/>mies to <hi>God</hi> and his people; as in <hi>Lament.</hi> 3. 59, 60. <note place="margin">
+                  <hi>Lamen.</hi> 3. 59, 60</note>
+               <hi>Lord thou hast seen our wrongs, the fore judge thou our cause. Thou hast seen all their vengeance, and all their devises against us;</hi> and 64. <hi>Therfore give them</hi>
+               <note place="margin">The <hi>Lord</hi> will recompence them.</note>
+               <hi>a recompence according to the works of their hands</hi> Now the <hi>Lord</hi> hath refresht his people wonder<g ref="char:EOLhyphen"/>fully,
+<pb facs="tcp:199242:8"/> in relieving of them: for now the <hi>Lord</hi> hath brought home those 3 Worthies, that were Ba<g ref="char:EOLhyphen"/>nished <note place="margin">
+                  <hi>God</hi> can do all things.</note> so farre, contrary to all our expectations, for few thought to have seen them all here alive againe: but all things are possible unto <hi>God.</hi> And so in setting at liberty other Captives, as silenced Ministers, and others. O this is a great mercy, that <hi>God</hi> out of his free mercy and love to his people should give them such a gracious delive<g ref="char:EOLhyphen"/>rance from the cruell Tyranny of these Prelates, who ruled and raigned as Lords over them: for the wicked must not thinke alwayes to Tyran<g ref="char:EOLhyphen"/>nize over them, and thinke the <hi>Lord</hi> will not avenge himselfe of them, no, no, for the <hi>Lord</hi> hath promised to his people the utter ruine of their enemies at last: yea, the <hi>Lord</hi> hath said, <hi>All things shall worke together for the best of them that love him.</hi> And therfore, though they be persecuted, it is not alwayes, it is but for a time. Now <hi>God</hi> will stand up to plead their own cause, that wheras <note place="margin">
+                  <hi>Gods</hi> cause shall be pleaded.</note> before his people were called in question, and Imprisoned; now they who called them in que<g ref="char:EOLhyphen"/>stion; are called in question themselves, and have the same punishment inflicted on them, as they <note place="margin">They are paid with their own coine.</note> would have inflicted on others: for our Lord<g ref="char:EOLhyphen"/>ly Bishops, and other inferiour Doctors, that silenced other good men, are now silenc'd them<g ref="char:EOLhyphen"/>selves, and that according to justice: for there is no Court like unto the <hi>Parliament</hi> for justice and <note place="margin">No Court like unto the <hi>Parli<g ref="char:EOLhyphen"/>ament.</hi>
+               </note> equity; now all things are called in question that were wrong, to be set right. But in my Lords Court at <hi>Lambeth,</hi> there was nothing but inju<g ref="char:EOLhyphen"/>stice. Pursevanting knaves would come and do<g ref="char:EOLhyphen"/>mineere <note place="margin">No justi<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at al.</note> and carry any one, who they would,
+<pb facs="tcp:199242:8"/> before his Grace, and make them spend their money, and their time; and in the end know not why, nor for what; they were brought in, and <note place="margin">And yet there was no remedy▪</note> there was no helpe at all for it. But here the <hi>Parliament</hi> is a Court of justice, doing no man wrong, but righting the wronged, and easing the oppressed. And I hope the <hi>Parliament</hi> will take it into consideration, that there may be no Bi<g ref="char:EOLhyphen"/>shops, for the Church may be governed without <note place="margin">No Bishops. No Bishops.</note> Bishops: or at least, if there be, to curbe them of their power, that if they doe ordaine Bishops, that they may be preaching Bishops, and not <note place="margin">Bishops that will preach, it may be wilbe accepted of.</note> Lording Bishops, not have so much power and Authority as they had, and not so many benefi<g ref="char:EOLhyphen"/>ces, when many good men are without: but I leave all to that grave and honourable Assem<g ref="char:EOLhyphen"/>blies disposing, beseeching <hi>God</hi> to protect, and keep them, and continue them together.</p>
+            <p>But to conclude, here you see <hi>Gods</hi> goodnesse <note place="margin">For Conclusion.</note> to his people, in curbing the Prelats: and here let all take notice and observe (all that are the ene<g ref="char:EOLhyphen"/>mies <note place="margin">It is in vaine to work mischief against the Church of <hi>God.</hi>
+               </note> of the people of <hi>God)</hi> that it is in vaine to plot or contrive any mischief against the godly, seeing that <hi>God</hi> turnes all to their own ruine, see<g ref="char:EOLhyphen"/>ing that <hi>God is their God, and they his people,</hi> yea they are <hi>his Iewels,</hi> and therfore he will have a care of <note place="margin">
+                  <hi>Gods</hi> people are his delight: therfore he will have a care of them.</note> them, that none doe hurt them: why then this is for great terror to the wicked, that <hi>though they sit up early and late, night and day to invent mischiefe and wickednesse against the people of God,</hi> yet it is in vain, for all is turned to their ruine: why then Brethe<g ref="char:EOLhyphen"/>ren in <hi>Christ,</hi> rejoyce all ye godly, <hi>shout for joy, thy</hi>
+               <note place="margin">
+                  <hi>Zach.</hi> 9. 9.</note>
+               <hi>King cometh unto thee.</hi> O here is matter of great
+<pb facs="tcp:199242:9"/> joy, <hi>Christ</hi> is come to bring deliverance, all the enemies of the Church, and his Gospell is falling, the <hi>Prelats</hi> downfall is hastening; and then the <note place="margin">It is begun al<g ref="char:EOLhyphen"/>ready.</note> Gospell of <hi>Jesus Christ</hi> will flourish more then ever before, and shine more clearer: for so long as the enemies of it raigned, it could never shine forth in its cleare light: therfore let it be alwayes all our Prayers to <hi>God,</hi> that he would accomplish the downfall of <hi>Babylon,</hi> to ruine that man of Sin. And <hi>Lord confound all the enemies of thy Church and people: let them be confounded and put to shame that seek after my soule: let them be turned back, and brought to confusion that imagine mine hurt.</hi> Psal. 35. 4.</p>
+            <trailer>FJNJS.</trailer>
+            <closer>
+               <signed>Written by an ill willer to the Romish brood.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
